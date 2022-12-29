@@ -2,6 +2,12 @@
 <h3 align="center">Just another profile online, keep scrolling</h3>
 
 ## 📊 Stats:
+![](https://komarev.com/ghpvc/?username=GameBear64)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<a href="https://www.codewars.com/users/GameBear64" target="_blank" rel="noreferrer">
+  <img src="https://www.codewars.com/users/GameBear64/badges/micro" alt="codewars" />
+</a>  
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GameBear64&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
