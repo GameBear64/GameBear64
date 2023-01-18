@@ -6,9 +6,6 @@
 [![CodeWars](https://www.codewars.com/users/GameBear64/badges/micro)](https://www.codewars.com/users/GameBear64)
 [![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7149508/gambar)
 
-## 📊 Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GameBear64&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ## 🛠 Languages and Tools:
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
