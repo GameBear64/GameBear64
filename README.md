@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladimir-d-petrov/)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/GameBear/)
 
-## Certification
+## 🎓 Certification
 [![SoftUni](https://img.shields.io/badge/SoftUni-F4B728.svg?style=for-the-badge)](https://softuni.bg/Certificates/Details/174956/3cfcef66)
 
 
