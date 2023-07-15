@@ -7,8 +7,11 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladimir-d-petrov/)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/GameBear/)
 
-## 🎓 Certification
-[![SoftUni](https://img.shields.io/badge/SoftUni-F4B728.svg?style=for-the-badge)](https://softuni.bg/Certificates/Details/174956/3cfcef66)
+### 🎓 Certification
+[SoftUni JS Diploma](https://softuni.bg/Certificates/Details/174956/3cfcef66)
+
+### 💎 Publically available projects
+[Pantone Wall](https://pantone-wall.vercel.app/)
 
 
 ## 🛠 Languages and Tools
@@ -44,7 +47,9 @@
 
 ### Other interests
 [![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+[![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D)](https://www.ovhcloud.com/en/)
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
 
 ## Interested in learning
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
@@ -58,5 +63,6 @@
 
 
 ---
-
+\**All badges are links to their respective websites*  
+  
 ![](https://komarev.com/ghpvc/?username=GameBear64)
