@@ -1,3 +1,7 @@
+[//]: # (Profile picture by hcnone: https://twitter.com/hcnone)
+[//]: # (Girl on the README by Rivhey: https://www.reddit.com/user/Rivhey/)
+
+
 <h1 align="center">I'm GamBar <pre>aka GameBear64</pre></h1>
 <h3 align="center">Just another profile online, keep scrolling</h3>
 
