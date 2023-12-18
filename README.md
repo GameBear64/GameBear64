@@ -3,7 +3,6 @@
 
 
 <h1 align="center">I'm GamBar <pre>aka GameBear64</pre></h1>
-<h3 align="center">Just another profile online, keep scrolling</h3>
 
 ![cover](https://github.com/GameBear64/GameBear64/assets/33098072/6ad74f26-420d-4dc0-a0b7-06d33b85aafe)
 
@@ -23,7 +22,7 @@
 **[[HTML & CSS]](https://softuni.bg/certificates/details/147238/ddfb476c)  
 [[Basics]](https://softuni.bg/certificates/details/109583/66a77ff4) [[Fundamentals]](https://softuni.bg/certificates/details/119720/5df825ba) [[Advanced]](https://softuni.bg/certificates/details/126429/78227b8d)  
 [[Applications]](https://softuni.bg/certificates/details/130516/694d7db5) [[Back-End]](https://softuni.bg/certificates/details/142300/3d3e858a)  
-[[React]](https://softuni.bg/certificates/details/140603/42716068) [[Angular]](https://softuni.bg/certificates/details/152883/0037814e) [Vue] (soon)**
+[[React]](https://softuni.bg/certificates/details/140603/42716068) [[Angular]](https://softuni.bg/certificates/details/152883/0037814e) [[Vue]](https://softuni.bg/certificates/details/199031/5c18ca33)**
 
 ## C#
 **(Soon)**
@@ -59,8 +58,8 @@
 
 | | |
 | :-------------- | ------------------------------------------------------------ |
-| **Other interests** | [![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/) [![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D)](https://www.ovhcloud.com/en/) [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/) ![Books](https://img.shields.io/badge/Books-B71C1C?style=for-the-badge) ![Fitness](https://img.shields.io/badge/Fitness-blue?style=for-the-badge) |
-| **Interested in learning** | [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/) [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/) [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/) [![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/) [![ScyllaDB](https://img.shields.io/badge/scylladb-0D80D8.svg?style=for-the-badge)](https://www.scylladb.com/) [![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)](https://godotengine.org/) [![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/) |
+| **Other interests** | [![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/) [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/) ![Books](https://img.shields.io/badge/Books-B71C1C?style=for-the-badge) ![Fitness](https://img.shields.io/badge/Fitness-blue?style=for-the-badge) |
+| **Interested in learning** | [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/) [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/) [![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/) [![ScyllaDB](https://img.shields.io/badge/scylladb-0D80D8.svg?style=for-the-badge)](https://www.scylladb.com/) [![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)](https://godotengine.org/) |
 
 
 ---
