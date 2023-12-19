@@ -1,10 +1,8 @@
 [//]: # (Profile picture by hcnone: https://twitter.com/hcnone)
 [//]: # (Girl on the README by Rivhey: https://www.reddit.com/user/Rivhey/)
 
+![newBanner](https://github.com/GameBear64/GameBear64/assets/33098072/a3bb3713-cf3a-4263-a764-3bb3ff48dca3)
 
-<h1 align="center">I'm GamBar <pre>aka GameBear64</pre></h1>
-
-![cover](https://github.com/GameBear64/GameBear64/assets/33098072/6ad74f26-420d-4dc0-a0b7-06d33b85aafe)
 
 ## 🔗 Links
 [![CodeWars](https://www.codewars.com/users/GameBear64/badges/micro)](https://www.codewars.com/users/GameBear64)
