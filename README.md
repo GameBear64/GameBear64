@@ -3,7 +3,6 @@
 
 ![newBanner](https://github.com/GameBear64/GameBear64/assets/33098072/a3bb3713-cf3a-4263-a764-3bb3ff48dca3)
 
-
 ## 🔗 Links
 [![CodeWars](https://www.codewars.com/users/GameBear64/badges/micro)](https://www.codewars.com/users/GameBear64)
 [![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7149508/gambar)
@@ -13,20 +12,10 @@
 ---
 # 🎓 Certification  
 
-## JavaScript
-
-### [SoftUni JS Diploma](https://softuni.bg/Certificates/Details/174956/3cfcef66)  
-
-**[[HTML & CSS]](https://softuni.bg/certificates/details/147238/ddfb476c)  
-[[Basics]](https://softuni.bg/certificates/details/109583/66a77ff4) [[Fundamentals]](https://softuni.bg/certificates/details/119720/5df825ba) [[Advanced]](https://softuni.bg/certificates/details/126429/78227b8d)  
-[[Applications]](https://softuni.bg/certificates/details/130516/694d7db5) [[Back-End]](https://softuni.bg/certificates/details/142300/3d3e858a)  
-[[React]](https://softuni.bg/certificates/details/140603/42716068) [[Angular]](https://softuni.bg/certificates/details/152883/0037814e) [[Vue]](https://softuni.bg/certificates/details/199031/5c18ca33)**
-
-## C#
-**(Soon)**
-
-## Other
-**[[Netowrk Compromising]](https://softuni.bg/certificates/details/171692/b94990bb) [[MySQL]](https://softuni.bg/certificates/details/172232/dab96a14)**
+| JavaScript         | C#            | Other      |
+| :----------------: | :-----------: | :--------: |
+| **[[SoftUni JS Diploma]](https://softuni.bg/Certificates/Details/174956/3cfcef66)** | **(Soon)** |
+| **[[HTML & CSS]](https://softuni.bg/certificates/details/147238/ddfb476c) <br> [[Basics]](https://softuni.bg/certificates/details/109583/66a77ff4) [[Fundamentals]](https://softuni.bg/certificates/details/119720/5df825ba) [[Advanced]](https://softuni.bg/certificates/details/126429/78227b8d) <br> [[Applications]](https://softuni.bg/certificates/details/130516/694d7db5) [[Back-End]](https://softuni.bg/certificates/details/142300/3d3e858a) <br> [[React]](https://softuni.bg/certificates/details/140603/42716068) [[Angular]](https://softuni.bg/certificates/details/152883/0037814e) [[Vue]](https://softuni.bg/certificates/details/199031/5c18ca33)** | **(Soon)** | **[[Netowrk Compromising]](https://softuni.bg/certificates/details/171692/b94990bb) <br> [[MySQL]](https://softuni.bg/certificates/details/172232/dab96a14)** |
 
 ---
 # ✨ Finished Personal Projects
@@ -57,8 +46,8 @@
 
 | | |
 | :-------------- | ------------------------------------------------------------ |
-| **Other interests** | [![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/) [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/) ![Books](https://img.shields.io/badge/Books-B71C1C?style=for-the-badge) ![Fitness](https://img.shields.io/badge/Fitness-blue?style=for-the-badge) |
-| **Interested in learning** | [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/) [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/) [![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/) [![ScyllaDB](https://img.shields.io/badge/scylladb-0D80D8.svg?style=for-the-badge)](https://www.scylladb.com/) [![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)](https://godotengine.org/) |
+| **Other interests** | [![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/) [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/) ![Hardware](https://img.shields.io/badge/Hardware-000?style=for-the-badge&logo=googlesearchconsole&logoColor=white) ![Books](https://img.shields.io/badge/Books-B71C1C?style=for-the-badge&logo=bookstack&logoColor=white) ![Fitness](https://img.shields.io/badge/Fitness-blue?style=for-the-badge) |
+| **Interested in learning** | [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/) [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/) [![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)](https://ziglang.org/) [![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/) [![ScyllaDB](https://img.shields.io/badge/scylladb-0D80D8.svg?style=for-the-badge)](https://www.scylladb.com/) [![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)](https://godotengine.org/) |
 
 
 ---
