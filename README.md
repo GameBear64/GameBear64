@@ -3,12 +3,15 @@
 
 ![newBanner](https://github.com/GameBear64/GameBear64/assets/33098072/a3bb3713-cf3a-4263-a764-3bb3ff48dca3)
 
+---
 <h3 align=center>
   An idiot admires complexity, a genius admires simplicity.
 </h2>
 <p align=center>
   - Terry Davis
 </p>
+
+---
 
 ## 🔗 Links
 [![Resume](https://img.shields.io/badge/Resume--Website-4EA94B.svg?style=for-the-badge&logo=googledocs&logoColor=white)](https://gam-resume-site.vercel.app/)  
