@@ -27,22 +27,83 @@
 
 | JavaScript         | C#            | Other      |
 | :----------------: | :-----------: | :--------: |
-| **[[SoftUni JS Diploma]](https://softuni.bg/Certificates/Details/174956/3cfcef66)** | **(Soon)** |
-| **[[React]](https://softuni.bg/certificates/details/140603/42716068) [[Angular]](https://softuni.bg/certificates/details/152883/0037814e) [[Vue]](https://softuni.bg/certificates/details/199031/5c18ca33) <br> [[Applications]](https://softuni.bg/certificates/details/130516/694d7db5) [[Back-End]](https://softuni.bg/certificates/details/142300/3d3e858a) <br> [[Fundamentals]](https://softuni.bg/certificates/details/119720/5df825ba) [[Advanced]](https://softuni.bg/certificates/details/126429/78227b8d) <br> [[HTML & CSS]](https://softuni.bg/certificates/details/147238/ddfb476c) [[Basics]](https://softuni.bg/certificates/details/109583/66a77ff4)** | **(More soon) <br> [[Advanced]](https://softuni.bg/certificates/details/227790/9919ec0a) [[OOP]](https://softuni.bg/certificates/details/231437/e17c4d2a) <br> [[Fundamentals]](https://softuni.bg/certificates/details/222265/2c84dd44)** | **[[Netowrk Compromising]](https://softuni.bg/certificates/details/171692/b94990bb) <br> [[MySQL]](https://softuni.bg/certificates/details/172232/dab96a14)** |
+| [![SoftUni JS Diploma](https://img.shields.io/badge/SoftUni%20JS%20Diploma-%23234464.svg?style=for-the-badge&logo=javascript&logoColor=white)](https://softuni.bg/Certificates/Details/174956/3cfcef66) <br> [![React](https://img.shields.io/badge/React-%23C47922.svg?style=for-the-badge&logo=react&logoColor=white)](https://softuni.bg/certificates/details/140603/42716068) [![Angular](https://img.shields.io/badge/Angular-%23C47922.svg?style=for-the-badge&logo=angular&logoColor=white)](https://softuni.bg/certificates/details/152883/0037814e) [![Vue](https://img.shields.io/badge/Vue-%23C47922.svg?style=for-the-badge&logo=vue.js&logoColor=white)](https://softuni.bg/certificates/details/199031/5c18ca33) <br> [![Applications](https://img.shields.io/badge/Applications-%23C47922.svg?style=for-the-badge)](https://softuni.bg/certificates/details/130516/694d7db5) [![Back-End](https://img.shields.io/badge/Back--End-%23C47922.svg?style=for-the-badge)](https://softuni.bg/certificates/details/142300/3d3e858a) [![Advanced](https://img.shields.io/badge/Advanced-%23C47922.svg?style=for-the-badge)](https://softuni.bg/certificates/details/126429/78227b8d) <br> [![HTML & CSS](https://img.shields.io/badge/HTML%20%26%20CSS-%23C47922.svg?style=for-the-badge&logo=html5&logoColor=white)](https://softuni.bg/certificates/details/147238/ddfb476c) [![Fundamentals](https://img.shields.io/badge/Fundamentals-%23C47922.svg?style=for-the-badge)](https://softuni.bg/certificates/details/119720/5df825ba) [![Basics](https://img.shields.io/badge/Basics-%23C47922.svg?style=for-the-badge)](https://softuni.bg/certificates/details/109583/66a77ff4) | **(More soon)** <br> <br> [![Advanced](https://img.shields.io/badge/Advanced-%23C47922.svg?style=for-the-badge)](https://softuni.bg/certificates/details/227790/9919ec0a) [![OOP](https://img.shields.io/badge/OOP-%23C47922.svg?style=for-the-badge)](https://softuni.bg/certificates/details/231437/e17c4d2a) <br> [![Fundamentals](https://img.shields.io/badge/Fundamentals-%23C47922.svg?style=for-the-badge)](https://softuni.bg/certificates/details/222265/2c84dd44) | [![MySQL](https://img.shields.io/badge/MySQL-%23C47922.svg?style=for-the-badge)](https://softuni.bg/certificates/details/172232/dab96a14) <br> [![Network Compromising](https://img.shields.io/badge/Network%20Compromising-%23C47922.svg?style=for-the-badge)](https://softuni.bg/certificates/details/171692/b94990bb) |
 
 ---
 # ✨ Finished Personal Projects
-| Project         | Description     | Stack      |
-| --------------- | :-------------: | ---------- |
-| [FolderDB](https://github.com/GameBear64/FolderDB) | JSON based database with the option to organise your dada to your liking | [![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)](https://bun.sh/) [![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=fff)](https://www.npmjs.com/package/@gambar/folder-db) [![Rollup](https://img.shields.io/badge/rollup-EC4A3F?style=for-the-badge&logo=rollupdotjs&logoColor=fff)](https://rollupjs.org) |
-| [Resume Site](https://github.com/GameBear64/resume-site/tree/main) | A resume site to showcase all my knoledge and experiences in one place | [![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)](https://svelte.dev) [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/) |
-| [Stylish Closet](https://github.com/GameBear64/Clothes-Shop) | Simple and minimal clothes shop | [![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/) [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com) |
-| [InquireHub](https://github.com/GameBear64/InquireHub) | Questions and answers app where everyone is anonymous | [![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/) [![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)](https://socket.io/)  [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com) [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) |
-| [React Stores Examples](https://github.com/GameBear64/React-Stores-Examples) | Trying out different stores for react | [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/) & a lot of stores |
-| [Hangman](https://github.com/GameBear64/hangman) | Hangman with multiplayer capabilities | [![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/) [![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)](https://socket.io/)  [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) [![Glob](https://img.shields.io/badge/GLOB-774AB7?style=for-the-badge&logoColor=white)](https://www.npmjs.com/package/glob) |
-| [PantoneWall](https://pantone-wall.vercel.app/) | Wallpaper generator using the Pantone colors | [![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)](https://svelte.dev) [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/) [![Pantone](https://img.shields.io/badge/Pantone-AC354B?style=for-the-badge&logoColor=white)](https://www.pantone.com/) |
-| [GamBooru](https://github.com/GameBear64/GamBooru) | Booru style image board for categorizing images with tags | [![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io) [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com) [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) | 
-| [CoolFeed](https://github.com/GameBear64/CoolFeed) | Social media with a unique like system | [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/) [![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com/) [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com) [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) |
+### [FolderDB](https://github.com/GameBear64/FolderDB)  
+JSON-based database with the option to organise your data to your liking.  
+[![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)](https://bun.sh/) 
+[![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=fff)](https://www.npmjs.com/package/@gambar/folder-db) 
+[![Rollup](https://img.shields.io/badge/rollup-EC4A3F?style=for-the-badge&logo=rollupdotjs&logoColor=fff)](https://rollupjs.org)
+
+---
+
+### [Resume Site](https://github.com/GameBear64/resume-site/tree/main)  
+A resume site to showcase all my knowledge and experiences in one place.  
+[![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)](https://svelte.dev) 
+[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) 
+[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+
+---
+
+### [Stylish Closet](https://github.com/GameBear64/Clothes-Shop)  
+Simple and minimal clothes shop.  
+[![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/) 
+[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) 
+[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com)
+
+---
+
+### [InquireHub](https://github.com/GameBear64/InquireHub)  
+Questions and answers app where everyone is anonymous.  
+[![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/) 
+[![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)](https://socket.io/) 
+[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) 
+[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com) 
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
+---
+
+### [React Stores Examples](https://github.com/GameBear64/React-Stores-Examples)  
+Trying out different state management stores for React.  
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/) 
+& various state libraries
+
+---
+
+### [Hangman](https://github.com/GameBear64/hangman)  
+Hangman with multiplayer capabilities.  
+[![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/) 
+[![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)](https://socket.io/) 
+[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) 
+[![Glob](https://img.shields.io/badge/GLOB-774AB7?style=for-the-badge&logoColor=white)](https://www.npmjs.com/package/glob)
+
+---
+
+### [PantoneWall](https://pantone-wall.vercel.app/)  
+Wallpaper generator using the Pantone colors.  
+[![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)](https://svelte.dev) 
+[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/) 
+[![Pantone](https://img.shields.io/badge/Pantone-AC354B?style=for-the-badge&logoColor=white)](https://www.pantone.com/)
+
+---
+
+### [GamBooru](https://github.com/GameBear64/GamBooru)  
+Booru-style image board for categorizing images with tags.  
+[![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io) 
+[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com) 
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
+---
+
+### [CoolFeed](https://github.com/GameBear64/CoolFeed)  
+Social media with a unique like system.  
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/) 
+[![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com/) 
+[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com) 
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
 
 ---
 
