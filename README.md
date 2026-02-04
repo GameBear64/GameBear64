@@ -87,7 +87,7 @@ Booru-style image board for categorizing images with tags.
 
 <br> <br> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GameBear64&layout=compact&theme=dark)
+![Top Langs](./profile/top-langs.svg)
 
 <br> <br>
 
