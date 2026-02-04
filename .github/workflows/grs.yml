@@ -19,9 +19,9 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&theme=dark&langs_count=8
+          options: username=${{ github.repository_owner }}&layout=compact&theme=dark&langs_count=8&include_private=true
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_TOP_LANGS_TOKEN }}
 
       - name: Commit cards
         run: |
