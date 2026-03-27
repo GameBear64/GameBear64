@@ -37,15 +37,6 @@ A resume site to showcase all my knowledge and experiences in one place.
 
 ---
 
-### [Stylish Closet](https://github.com/GameBear64/Clothes-Shop)  
-Simple and minimal clothes shop.  
-
-[![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/) 
-[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) 
-[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com)
-
----
-
 ### [PantoneWall](https://pantone-wall.vercel.app/)  
 Wallpaper generator using the Pantone colors.  
 
