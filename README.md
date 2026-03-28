@@ -14,7 +14,7 @@
 ---
 
 ## 🔗 Links
-[![Resume](https://img.shields.io/badge/Resume--Website-4EA94B.svg?style=for-the-badge&logo=googledocs&logoColor=white)](https://gam-resume-site.vercel.app/) 
+[![Resume](https://img.shields.io/badge/Resume--Website-4EA94B.svg?style=for-the-badge&logo=googledocs&logoColor=white)](https://resume.gamriel.com/) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladimir-d-petrov/) 
 [![Full-Stack JS Diploma](https://img.shields.io/badge/Full%E2%80%93Stack%20JS%20Diploma-%23234464.svg?style=for-the-badge&logo=javascript&logoColor=white)](https://softuni.bg/certificates/details/250366/3b6d7f91)
 
@@ -28,7 +28,7 @@
 ---
 
 # ✨ Some Cool Projects
-### [Resume Site](https://github.com/GameBear64/resume-site/tree/main)  
+### [Resume Site](https://resume.gamriel.com/) / [repo](https://git.gamriel.com/GamBar/resume-site)
 A resume site to showcase all my knowledge and experiences in one place.  
 
 [![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)](https://svelte.dev) 
