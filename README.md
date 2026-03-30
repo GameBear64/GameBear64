@@ -44,13 +44,6 @@ Wallpaper generator using the Pantone colors.
 [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/) 
 [![Pantone](https://img.shields.io/badge/Pantone-AC354B?style=for-the-badge&logoColor=white)](https://www.pantone.com/)
 
----
-
-<br>
-
-![Top Langs](./profile/top-langs.svg)
-
-<sup><i>Excluding activity from [GitBar](https://git.gamriel.com/)</i></sup>
 
 ---
 
