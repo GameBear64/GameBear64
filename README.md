@@ -21,7 +21,7 @@
 ---
 > [!IMPORTANT]
 > The age of AI and [enshitification](https://www.merriam-webster.com/slang/enshittification) is here and I refuse to participate.  
-> I’m gradually migrating my projects to my self-hosted git: https://git.gamriel.com/
+> I’m gradually migrating my projects to my self-hosted git: https://git.gamriel.com/GamBar
 >
 > Take back control. Build your own spaces. Self-host. Support open source.
 
@@ -37,7 +37,7 @@ A resume site to showcase all my knowledge and experiences in one place.
 
 ---
 
-### [PantoneWall](https://pantone-wall.vercel.app/)  
+### [PantoneWall](https://pantone.gamriel.com/)  
 Wallpaper generator using the Pantone colors.  
 
 [![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)](https://svelte.dev) 
@@ -49,6 +49,6 @@ Wallpaper generator using the Pantone colors.
 
 # 📌 Other Interests
 
-[![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/) ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white) ![Hardware](https://img.shields.io/badge/Hardware-000?style=for-the-badge&logo=googlesearchconsole&logoColor=white) [![FOSS](https://img.shields.io/badge/FOSS-%23008000.svg?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://opensource.org/) ![Photography](https://img.shields.io/badge/Photography-000000?style=for-the-badge&logo=camera&logoColor=white) ![Music](https://img.shields.io/badge/Music-%23FF0000?style=for-the-badge&logo=youtubemusic&logoColor=white)
+[![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/) ![Hardware](https://img.shields.io/badge/Hardware-000?style=for-the-badge&logo=googlesearchconsole&logoColor=white) [![FOSS](https://img.shields.io/badge/FOSS-%23008000.svg?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://opensource.org/) ![Photography](https://img.shields.io/badge/Photography-000000?style=for-the-badge&logo=camera&logoColor=white) ![Music](https://img.shields.io/badge/Music-%23FF0000?style=for-the-badge&logo=youtubemusic&logoColor=white)
 
 <sup><i>*All badges with icons are links to their respective websites</i></sup>
